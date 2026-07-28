@@ -9,10 +9,9 @@ A fully autonomous, AI-assisted e-commerce pricing platform that monitors compet
 ![Orchestration](https://img.shields.io/badge/Orchestration-LangGraph-purple)
 ![LLM](https://img.shields.io/badge/LLM-Groq-orange)
 
-<video width="600" controls>
-  <source src="AutoPriceAI_GohilDhruv.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+  <img src="Screenshot 2026-07-28 170532.png" alt="AutoPrice AI Banner" width="100%">
+</p>
 
 ## What this project does today
 
