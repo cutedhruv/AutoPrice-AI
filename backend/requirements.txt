@@ -1,0 +1,21 @@
+fastapi
+uvicorn[standard]
+websockets
+sqlalchemy
+pydantic
+python-dotenv
+httpx
+apscheduler
+groq
+aiosqlite
+python-multipart
+jinja2
+aiosmtplib
+email-validator
+
+# Agent orchestration & tools (LangGraph + LangChain-core + Semantic Kernel)
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+semantic-kernel>=1.17.0
+pytrends>=4.9.2
