@@ -8,11 +8,21 @@ A fully autonomous, AI-assisted e-commerce pricing platform that monitors compet
 ![Database](https://img.shields.io/badge/Database-SQLite-orange)
 ![Orchestration](https://img.shields.io/badge/Orchestration-LangGraph-purple)
 ![LLM](https://img.shields.io/badge/LLM-Groq-orange)
-
 <p align="center">
   <img src="Screenshot 2026-07-28 170532.png" alt="AutoPrice AI Banner" width="100%">
 </p>
 
+## Project Demo
+
+<p align="center">
+  <a href="https://youtu.be/_uW1iH3ccuo">
+    <img src="https://img.youtube.com/vi/_uW1iH3ccuo/maxresdefault.jpg" alt="Project Demo" width="800">
+  </a>
+</p>
+
+<p align="center">
+  <b>▶️ Watch the Full Project Demo on YouTube</b>
+</p>
 ## What this project does today
 
 - **Autonomous loop** — On backend startup, an asyncio loop runs every `AGENT_LOOP_INTERVAL` seconds (default **15s**) and processes each active product.
